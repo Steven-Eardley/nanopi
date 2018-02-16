@@ -10,3 +10,9 @@ configs:
 * haproxy
 * nginx
 * sshd
+* cron.d/certbot
+* ufw
+
+configs with secrets:
+* ddclient
+* certbot / letsencrypt
