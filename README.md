@@ -5,3 +5,14 @@ Current ideas:
 * List all machines that are up on the local network.
 * Add config values to this repo too.
 * Don't forget to keep credentials out of GitHub.
+
+configs:
+* haproxy
+* nginx
+* sshd
+* cron.d/certbot
+* ufw
+
+configs with secrets:
+* ddclient
+* certbot / letsencrypt
